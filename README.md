@@ -2,6 +2,9 @@
 # Hey there! 👋
 I'm 영인, a passionate developer interested in SSAFY. Welcome to my GitHub profile!
 
+- [ ] 체크 안 된 거
+- [x] 체크 된 거 
+
 <!-- 기술 스택 -->
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
